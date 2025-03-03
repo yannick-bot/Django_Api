@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d66f4f-368c-4d5f-aae9-af825ecfa99c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Users/UserSerializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservations/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reservations/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spotlights/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotlights/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gestion_Projo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gestion_Projo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <updated>1740940833983</updated>
       <workItem from="1740940835075" duration="4817000" />
       <workItem from="1740950855753" duration="1719000" />
-      <workItem from="1740985932422" duration="1980000" />
+      <workItem from="1740985932422" duration="3899000" />
     </task>
     <servers />
   </component>
